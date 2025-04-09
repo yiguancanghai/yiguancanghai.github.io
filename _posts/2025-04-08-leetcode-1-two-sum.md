@@ -4,9 +4,6 @@ date: 2025-04-08 09:00:00 +0800
 categories: [算法, 哈希表]
 tags: [leetcode, 简单, 数组, 哈希表]
 math: true
-image:
-  path: /assets/img/leetcode/leetcode-1.png
-  alt: "两数之和题解图解"
 ---
 
 ## 题目描述
